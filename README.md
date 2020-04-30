@@ -6,5 +6,4 @@ On any change to this repository, triggers jenkins pipeline which will provision
 http://<public IP>:8080/demoapp/
 
 
-
-dsdas
+sadsa
