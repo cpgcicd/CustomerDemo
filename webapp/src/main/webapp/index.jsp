@@ -1,6 +1,6 @@
-<h1> Hello, Welcome to Simple DevOps Project !!   </h1>
+<h1> Hello, Welcome to Sample DevOps Project !!   </h1>
 <br/>
-<h3> Hello Customer! </h3>
+<h3> Hello User! </h3>
 
 
 
